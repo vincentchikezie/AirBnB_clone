@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/110993797/217100424-93eb1f83-20b2-4630-bc75-404181fc889a.png)
+
 0x00. AirBnB clone - The console
 Group project
 Python
@@ -75,6 +77,8 @@ You are tasked to come up with solutions for the tasks below yourself to meet wi
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
+![image](https://user-images.githubusercontent.com/110993797/217100568-f53ffa1c-276b-4a6a-88ae-f49b6115632a.png)
+
 Requirements
 Python Scripts
 Allowed editors: vi, vim, emacs
