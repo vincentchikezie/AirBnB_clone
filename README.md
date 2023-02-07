@@ -1,4 +1,8 @@
-![image](https://user-images.githubusercontent.com/110993797/217100424-93eb1f83-20b2-4630-bc75-404181fc889a.png)
+![image](https://user-images.githubusercontent.com/110993797/217100424-93eb1f83-20b2-4630-bc75-404181fc889a.png) 
+                                                                                              
+
+                                                   AirBnB clone.
+![image](https://user-images.githubusercontent.com/110993797/217118084-368dd949-53cc-445e-87a4-1b40e005dbd0.png)
 
 0x00. AirBnB clone - The console
 Group project
@@ -61,6 +65,8 @@ python unittest
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
+
+
 General
 How to create a Python package
 How to create a command interpreter in Python using the cmd module
@@ -76,8 +82,10 @@ Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
-![image](https://user-images.githubusercontent.com/110993797/217100568-f53ffa1c-276b-4a6a-88ae-f49b6115632a.png)
+Any form of plagiarism is strictly forbidden and will result in removal from the program!
+
+
+
 
 Requirements
 Python Scripts
