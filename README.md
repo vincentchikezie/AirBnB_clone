@@ -4,28 +4,11 @@
 AirBnB clone.(https://user-images.githubusercontent.com/110993797/217118084-368dd949-53cc-445e-87a4-1b40e005dbd0.png) https://m.youtube.com/watch?time_continue=1&v=1mAC9x3aixE&embeds_euri=https%3A%2F%2Fintranet.alxswe.com%2F&source_ve_path=MzY4NDIsMjM4NTE&feature=emb_title                                                  
 
 
-0x00. AirBnB clone - The console
-Group project
-Python
-OOP
- By: Guillaume
- Weight: 5
- Project to be done in teams of 2 people (your team: Damilola Bakare , Vincent chikezie)
- Project will start Feb 5, 2023 9:00 PM, must end by Feb 12, 2023 9:00 PM
- Checker will be released at Feb 11, 2023 3:00 AM
- Manual QA review must be done (request it when you are done with the project)
- An auto review will be launched at the deadline
-Concepts
-For this project, we expect you to look at these concepts:
-
-Python packages
-AirBnB clone
+HBNB - The Console
+This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 
-Background Context
-Welcome to the AirBnB clone project!
-Before starting, please read the AirBnB concept page.
-
+Repository Contents by Project Task
 
 
 
